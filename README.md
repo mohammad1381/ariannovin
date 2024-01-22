@@ -2,17 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. git init
+2. git clone https://github.com/mohammad1381/ariannovin.git
+3. in ariannovin directory: npm i
+4. npm run dev
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
